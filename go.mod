@@ -1,4 +1,4 @@
-module ibrowser
+module github.com/penhauer-xiao/browser
 
 go 1.14
 
