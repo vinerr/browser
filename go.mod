@@ -1,4 +1,4 @@
-module browser
+module ibrowser
 
 go 1.14
 
