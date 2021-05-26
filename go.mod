@@ -1,4 +1,4 @@
-module github.com/penhauer-xiao/browser
+module github.com/vinerr/browser
 
 go 1.14
 
