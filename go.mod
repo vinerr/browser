@@ -8,4 +8,4 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 )
 
-replace github.com/sirupsen/logrus v1.8.1 => github.com/spiderorg/logrus v1.9.9
+replace github.com/sirupsen/logrus v1.8.1 => github.com/selead/logrus v1.8.9
